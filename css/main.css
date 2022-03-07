@@ -88,10 +88,12 @@ a:hover{
     padding: 0 10% 5% 10%;
     margin: 0;
 }
-.feat-icon{
+.feature .icon{
     color: #02bb9c;
     font-size: 55px;
-    padding: 0 0 0 3%;
+}
+.feat{
+    margin-bottom: 2%;
 }
 .portfolio{
     background-color: #f3f4f8;
@@ -110,12 +112,15 @@ a:hover{
     padding: 2%;
     text-align: center;
     background-color: #fff;
-    box-shadow: #4b6b84;
+    box-shadow: 1px 1px 1px 1px #cad0d5;
     margin-bottom: 11%;
 }
 .port-imgs{
     padding: 0 10% 10% 10%;
     margin: 0;
+}
+.port-img{
+    margin-bottom: 2%;
 }
 .work{
     background-color: #fff;
@@ -131,7 +136,6 @@ a:hover{
     color: #fff;
     padding: 1vw;
     width: 20%;
-    margin: 1% 40%;
     font-size: small;
     font-weight: 700;
 }
@@ -140,6 +144,9 @@ a:hover{
     color: #fff;
     padding: 4% 10%;
     margin: 0;
+}
+.foot-box{
+    margin-bottom: 4%;
 }
 .foot-head{
     font-weight: 700;
